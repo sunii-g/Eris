@@ -1,13 +1,13 @@
-## Hi there, I'm Sunii-g 👋
+## Hi there, I'm Eris 👋
 
-[![Facebook](https://img.shields.io/badge/Ily1606-black?style=flat&logo=Facebook&logoColor=blue/)](https://www.facebook.com/Will.04/)
-[![Instagram](https://img.shields.io/badge/Ily1606-black?style=flat&logo=Instagram&logoColor=pink)](https://www.instagram.com/quangsang_official/)
+[![Facebook](https://img.shields.io/badge/Eris-black?style=flat&logo=Facebook&logoColor=blue/)](https://www.facebook.com/Will.04/)
+[![Instagram](https://img.shields.io/badge/Eris-black?style=flat&logo=Instagram&logoColor=pink)](https://www.instagram.com/quangsang_official/)
 
 <br>
 
 - 🔭 I’m currently working on to brushing up my skills
 - 👯 I’m looking to collaborate on JavaScript projects
-- 📫 How to reach me: <a href="mailto:typidane@gmail.com">khuonmatdangthuong45@gmail.com</a>
+- 📫 How to reach me: <a href="mailto:typidane@gmail.com">typidane@gmail.com</a>
 - ⚡ Fun fact: Appolo-11 mission uses only 4KB RAM to reach on moon
 
 <br>
